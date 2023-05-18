@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio/static/css/main.23f77476.css",
-    "main.js": "/Personal-Portfolio/static/js/main.a1c69ddc.js",
+    "main.js": "/Personal-Portfolio/static/js/main.60389e4a.js",
     "static/media/FrontEnd.jpg": "/Personal-Portfolio/static/media/FrontEnd.9a95cf150deeb9f98c6a.jpg",
     "static/media/LeetCode.png": "/Personal-Portfolio/static/media/LeetCode.d500bb7c08811162a15d.png",
     "static/media/CodeForces.jpeg": "/Personal-Portfolio/static/media/CodeForces.f5a143997e784d78e5d5.jpeg",
@@ -11,10 +11,10 @@
     "static/media/rocket.jpg": "/Personal-Portfolio/static/media/rocket.e06e345476e7bab0f117.jpg",
     "index.html": "/Personal-Portfolio/index.html",
     "main.23f77476.css.map": "/Personal-Portfolio/static/css/main.23f77476.css.map",
-    "main.a1c69ddc.js.map": "/Personal-Portfolio/static/js/main.a1c69ddc.js.map"
+    "main.60389e4a.js.map": "/Personal-Portfolio/static/js/main.60389e4a.js.map"
   },
   "entrypoints": [
     "static/css/main.23f77476.css",
-    "static/js/main.a1c69ddc.js"
+    "static/js/main.60389e4a.js"
   ]
 }
